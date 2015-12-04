@@ -5,9 +5,6 @@ Proyecto Java + Spring boot para curso de Infraestructura de la UCA-PY
 
 1) Master.
 
-Contiene el proyecto inicial con un Hello Controller y un UnitTest.
+Contiene el proyecto inicial con test unitarios y de integración a nivel de servicios y endpoints rest.
 
-2) SinTest.
-
-Contiene el proyecto inicial con un Hello Controller pero sin tests.
-# uca-infra-junits
+Los test son solo a modo de ejemplo para explicar adecuadamente los conceptos.
